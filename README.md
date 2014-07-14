@@ -30,7 +30,7 @@ WARNING! As with all updates this can go horribly wrong. You should test every u
 
 ###Dependencies
 
-Requires the puppetlabs/stdlib module.
+Requires the puppetlabs/stdlib and fraenki/pfsense modules.
 
 ##Usage
 
