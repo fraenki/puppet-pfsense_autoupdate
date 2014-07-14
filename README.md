@@ -93,7 +93,7 @@ For debug or testing purposes you may want to run the update script from the pfS
 
 ##Acknowledgement
 
-The 'autoupdate.php' script is based on on system_firmware_auto.php (Copyright (C) 2008 Scott Ullrich <sullrich@gmail.com>, Copyright (C) 2005 Scott Ullrich). The latter is based originally on system_firmware.php (Copyright (C) 2003-2004 Manuel Kasper).
+The 'autoupdate.php' script is based on system_firmware_auto.php (Copyright (C) 2008 Scott Ullrich <sullrich@gmail.com>, Copyright (C) 2005 Scott Ullrich). The latter is based originally on system_firmware.php (Copyright (C) 2003-2004 Manuel Kasper).
 
 ##Development
 
